@@ -13,7 +13,7 @@
 - Insira na sua linha de comando do Banco de Dados
 
 Banco de Dados a ser Gerado:
-<img src="Banco de Dados/imagemBancoLogico.png" alt="Visualização Lógica do Banco de Dados">
+<img src="database/imagemBancoLogico.png" alt="Visualização Lógica do Banco de Dados">
 
 - Usuário utilizado no Projeto: `root`
 - Senha utilizada no Projeto: `* Sem Senha *`
